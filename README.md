@@ -7,6 +7,8 @@ Make Horiseon more accessible and optimized for search engine
 * HTML
 * CSS
 
+![marketing demo](./assets/images/Horiseon-screenshot.png)
+
 ## Website
 https://shannonposey.github.io/Horiseon/
 
